@@ -4,3 +4,4 @@
 
 ### [Heart Disease Analysis below the age of 50](https://github.com/codebyrazakhan/intro-matplotlib/blob/main/below_50.png)
 <img src = "https://github.com/codebyrazakhan/intro-matplotlib/blob/main/below_50.png" />
+<img src = "https://github.com/codebyrazakhan/intro-matplotlib/blob/main/max_below_50.png" />
